@@ -1,4 +1,4 @@
-# Valheim-Mods
+# Valheim Mods
 
 You will need the attached mods in order to join, I've tried to not go completely overboard but instead included some QoL improvements like shared map progression and item quick slots (All Mods will be listed below) 
 
