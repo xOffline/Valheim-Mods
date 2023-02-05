@@ -19,6 +19,8 @@ and config manager is just for setting the config for mods, they're usually fine
 BiggerItemStacks, EquipmentandQuickSlots, EquipMultipleItems, RepairAll, FarmGrid and NetworkFix are self explanatory
 
 # How to download
+Click `ValheimMods` from the Releases bar on the right, then select `ValheimMods.zip` to start the download.
 
 # Installation
-Right click Valheim on Steam, go to `Manage` and `Browse Local Files`. Download and open the `Valheim-Mods-main.zip` and then open the `Valheim-Mods-main` folder inside it (You'll know you're in the right place if one of the folders is called BepInEx), then copy all of the included files to your Valheim folder and replace if asked.
+Navigate to your Valheim directory (Right click Valheim on Steam, go to `Manage` and `Browse Local Files`).
+Download and open `ValheimMods.zip`, then copy all of the included files & folders to your Valheim folder and replace if asked.
