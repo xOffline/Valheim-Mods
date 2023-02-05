@@ -2,7 +2,7 @@
 
 You will need the attached mods in order to join, I've tried to not go completely overboard but instead included some QoL improvements like shared map progression and item quick slots (All Mods will be listed below) 
 
-# Example of included mods
+## Example of included mods
 Valheim Legends is best described by the mod page as it's......big
 https://www.nexusmods.com/valheim/mods/796
 
@@ -18,9 +18,9 @@ and config manager is just for setting the config for mods, they're usually fine
 
 BiggerItemStacks, EquipmentandQuickSlots, EquipMultipleItems, RepairAll, FarmGrid and NetworkFix are self explanatory
 
-# How to download
+## How to download
 Click `ValheimMods` from the Releases bar on the right, then select `ValheimMods.zip` to start the download.
 
-# Installation
+## Installation
 Navigate to your Valheim directory (Right click Valheim on Steam, go to `Manage` and `Browse Local Files`).
 Download and open `ValheimMods.zip`, then copy all of the included files & folders to your Valheim folder and replace if asked.
