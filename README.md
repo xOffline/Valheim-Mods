@@ -1,5 +1,11 @@
 # Valheim Mods
 
+There are 2 Releases available on the right, you will need only 1 of them to join.
+
+Just Valheim + - contains only the base mod, won't make any changes to the gameplay experience besides shared map progression.
+
+ValheimMods - contains all of the optional extra mods described below.
+
 You will need the attached mods in order to join, I've tried not to change the core experience much but instead included some QoL improvements like shared map progression and item quick slots (All Mods will be listed below) 
 
 ## Example of included mods
